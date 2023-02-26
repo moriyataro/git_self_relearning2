@@ -5,8 +5,7 @@
 
 競合のしこみ追加
 
-3rdブランチ
-
+3rdブランチ追加
 
 4th ブランチ追加
 
@@ -18,4 +17,4 @@
 
 8th modify
 
-
+new line added
